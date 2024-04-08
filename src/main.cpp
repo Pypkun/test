@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+	setlocale(LC_ALL, "RU");
 	cout << "hI GIT_TEST" << endl;
 	
 	int a, b, res;
@@ -21,6 +22,7 @@ int main() {
 	default:
 		cout << "я вас не понимаю"; break;
 	}
+	cout << "результат: " << res;
 	
 	
 
