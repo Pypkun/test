@@ -25,8 +25,7 @@ int main() {
 	cout << "ðåçóëüòàò: " << res;
 	
 	
-	cout << "пишу какю то фигню";
-	cout << "i";
+
 
 	
 	return 0;
