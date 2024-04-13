@@ -23,7 +23,7 @@ int main() {
 		cout << "ÿ âàñ íå ïîíèìàþ"; break;
 	}
 	
-	
+	cout "hi test.py";
 	
 
 
