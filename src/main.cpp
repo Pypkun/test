@@ -22,7 +22,7 @@ int main() {
 	default:
 		cout << "ÿ âàñ íå ïîíèìàþ"; break;
 	}
-	cout << "ðåçóëüòàò: " << res;
+	
 	
 	
 
