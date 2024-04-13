@@ -26,6 +26,7 @@ int main() {
 	
 	
 	cout << "пишу какю то фигню";
+	cout << "i";
 
 	
 	return 0;
